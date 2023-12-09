@@ -1,0 +1,15 @@
+this is chage in feature branch
+
+do some changes AND merge with master 
+
+changes:1
+changes:2
+
+squash-commit-1
+squash-commit-2
+squash-commit-3
+
+
+rebase-1
+rebase-2
+rebase-3
